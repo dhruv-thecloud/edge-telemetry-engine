@@ -1,0 +1,16 @@
+     0 sensor=1    24.503 degC avg=   24.503 ok      =
+     0 sensor=2   101.127 kPa  avg=  101.127 ok      =
+     1 sensor=1    25.160 degC avg=   24.831 ok       @
+     1 sensor=2   101.209 kPa  avg=  101.168 ok       @
+     2 sensor=1    24.611 degC avg=   24.758 ok       @.
+     2 sensor=2   101.271 kPa  avg=  101.203 ok       +@
+     3 sensor=1    25.349 degC avg=   24.906 ok       *.@
+     3 sensor=2   101.285 kPa  avg=  101.223 ok       =%@
+     4 sensor=1    25.375 degC avg=   25.000 ok       *.%@
+     4 sensor=2   101.492 kPa  avg=  101.277 ok       :--@
+     5 sensor=1    24.836 degC avg=   24.972 ok       *.%@-
+     5 sensor=2   101.288 kPa  avg=  101.279 ok       :--@-
+     6 sensor=1    25.365 degC avg=   25.028 ok       *.%@-%
+     6 sensor=2   101.352 kPa  avg=  101.289 ok       :--@-+
+     7 sensor=1    25.066 degC avg=   25.033 ok       *.%@-%+
+     7 sensor=2   101.264 kPa  avg=  101.286 ok       :--@-+-

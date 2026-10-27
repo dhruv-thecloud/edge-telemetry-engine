@@ -1,0 +1,1644 @@
+{
+  "baseline": [
+    {
+      "type": "telemetry",
+      "sequence": 0,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.502643892542142,
+          "average": 24.502643892542142,
+          "accepted": true,
+          "window_count": 1
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.12693885350646,
+          "average": 101.12693885350646,
+          "accepted": true,
+          "window_count": 1
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 1,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.160311977532764,
+          "average": 24.831477935037455,
+          "accepted": true,
+          "window_count": 2
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.20944059502438,
+          "average": 101.16818972426542,
+          "accepted": true,
+          "window_count": 2
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 2,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.6109570868106,
+          "average": 24.757970985628504,
+          "accepted": true,
+          "window_count": 3
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.2714315817101,
+          "average": 101.20260367674697,
+          "accepted": true,
+          "window_count": 3
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 3,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.349376902181977,
+          "average": 24.90582246476687,
+          "accepted": true,
+          "window_count": 4
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.28535988185564,
+          "average": 101.22329272802415,
+          "accepted": true,
+          "window_count": 4
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 4,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.375439391675275,
+          "average": 24.99974585014855,
+          "accepted": true,
+          "window_count": 5
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.49189585595552,
+          "average": 101.27701335361041,
+          "accepted": true,
+          "window_count": 5
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 5,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.835610968604595,
+          "average": 24.972390036557893,
+          "accepted": true,
+          "window_count": 6
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.28763166660505,
+          "average": 101.27878307244285,
+          "accepted": true,
+          "window_count": 6
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 6,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.36460887474581,
+          "average": 25.028421299156165,
+          "accepted": true,
+          "window_count": 7
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.35172093087499,
+          "average": 101.28920276650462,
+          "accepted": true,
+          "window_count": 7
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 7,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.066161315554325,
+          "average": 25.033138801205936,
+          "accepted": true,
+          "window_count": 8
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.26371906244633,
+          "average": 101.2860173034973,
+          "accepted": true,
+          "window_count": 8
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 8,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.22648212772945,
+          "average": 25.054621393041877,
+          "accepted": true,
+          "window_count": 9
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.26857650860762,
+          "average": 101.28407943739845,
+          "accepted": true,
+          "window_count": 9
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 9,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.74849261139717,
+          "average": 25.024008514877412,
+          "accepted": true,
+          "window_count": 10
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.16414014064686,
+          "average": 101.27208550772329,
+          "accepted": true,
+          "window_count": 10
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 10,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.195934883015216,
+          "average": 25.03963818470812,
+          "accepted": true,
+          "window_count": 11
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.2475376335258,
+          "average": 101.26985388279626,
+          "accepted": true,
+          "window_count": 11
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 11,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.28674830211949,
+          "average": 25.060230694492404,
+          "accepted": true,
+          "window_count": 12
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.25408025144812,
+          "average": 101.26853941351725,
+          "accepted": true,
+          "window_count": 12
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 12,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.212473594749458,
+          "average": 25.071941686819866,
+          "accepted": true,
+          "window_count": 13
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.36540703872228,
+          "average": 101.27599076930224,
+          "accepted": true,
+          "window_count": 13
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 13,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.75804751372385,
+          "average": 25.04952067445587,
+          "accepted": true,
+          "window_count": 14
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.13006159700572,
+          "average": 101.26556725699538,
+          "accepted": true,
+          "window_count": 14
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 14,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.955886880274836,
+          "average": 25.043278421510465,
+          "accepted": true,
+          "window_count": 15
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.4856834701171,
+          "average": 101.28024167120347,
+          "accepted": true,
+          "window_count": 15
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 15,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.75258003763216,
+          "average": 25.025109772518068,
+          "accepted": true,
+          "window_count": 16
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.30765527621439,
+          "average": 101.28195502151664,
+          "accepted": true,
+          "window_count": 16
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 16,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.626260686695172,
+          "average": 25.001648061587314,
+          "accepted": true,
+          "window_count": 17
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.4650581484521,
+          "average": 101.29272579368931,
+          "accepted": true,
+          "window_count": 17
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 17,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.510197018275548,
+          "average": 24.974345225847767,
+          "accepted": true,
+          "window_count": 18
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.1434087242974,
+          "average": 101.28443040094533,
+          "accepted": true,
+          "window_count": 18
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 18,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.31247811853245,
+          "average": 24.99214169388381,
+          "accepted": true,
+          "window_count": 19
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.18594812798801,
+          "average": 101.27924712342124,
+          "accepted": true,
+          "window_count": 19
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 19,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.131793756650712,
+          "average": 24.99912429702215,
+          "accepted": true,
+          "window_count": 20
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.13688751990253,
+          "average": 101.27212914324531,
+          "accepted": true,
+          "window_count": 20
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 20,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.253304863756828,
+          "average": 25.011228133533326,
+          "accepted": true,
+          "window_count": 21
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.1669638871313,
+          "average": 101.26712127390655,
+          "accepted": true,
+          "window_count": 21
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 21,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.065158069963836,
+          "average": 25.013679494280172,
+          "accepted": true,
+          "window_count": 22
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.26535682653551,
+          "average": 101.26704107175333,
+          "accepted": true,
+          "window_count": 22
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 22,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.058615976143304,
+          "average": 25.015633254361177,
+          "accepted": true,
+          "window_count": 23
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.47082364343709,
+          "average": 101.2759011835657,
+          "accepted": true,
+          "window_count": 23
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 23,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.07094010211782,
+          "average": 25.017937706351038,
+          "accepted": true,
+          "window_count": 24
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.51769786625931,
+          "average": 101.28597604534457,
+          "accepted": true,
+          "window_count": 24
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 24,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.96294351864209,
+          "average": 25.015737938842673,
+          "accepted": true,
+          "window_count": 25
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.36853929186323,
+          "average": 101.28927857520532,
+          "accepted": true,
+          "window_count": 25
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 25,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.584488913203703,
+          "average": 24.999151437856558,
+          "accepted": true,
+          "window_count": 26
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.38467485985245,
+          "average": 101.29294766307635,
+          "accepted": true,
+          "window_count": 26
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 26,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.255547040318035,
+          "average": 25.008647571281056,
+          "accepted": true,
+          "window_count": 27
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.42517318732575,
+          "average": 101.29784490471523,
+          "accepted": true,
+          "window_count": 27
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 27,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.01362197462321,
+          "average": 25.008825228543284,
+          "accepted": true,
+          "window_count": 28
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.44934405822409,
+          "average": 101.30325558876912,
+          "accepted": true,
+          "window_count": 28
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 28,
+      "elapsed_ms": 0,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.0646865064196,
+          "average": 25.010751479504535,
+          "accepted": true,
+          "window_count": 29
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.40429934195227,
+          "average": 101.30673985612027,
+          "accepted": true,
+          "window_count": 29
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 29,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.77334822278315,
+          "average": 25.00283803761382,
+          "accepted": true,
+          "window_count": 30
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.31840948010641,
+          "average": 101.30712884358648,
+          "accepted": true,
+          "window_count": 30
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 30,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.65160089408783,
+          "average": 24.991507807177502,
+          "accepted": true,
+          "window_count": 31
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.45354340857094,
+          "average": 101.31185189406983,
+          "accepted": true,
+          "window_count": 31
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 31,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.839838376813532,
+          "average": 24.986768137478617,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.22221279481828,
+          "average": 101.30905067221822,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 32,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.417269466658418,
+          "average": 25.01535018666975,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.30511410510636,
+          "average": 101.31461864883072,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 33,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.851607914630232,
+          "average": 25.005703184704046,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.2048980517499,
+          "average": 101.31447669435339,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 34,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.136113483839694,
+          "average": 25.022114322111207,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.48158972094687,
+          "average": 101.32104413620455,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 35,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.149262214230667,
+          "average": 25.01586073811273,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.20689734147906,
+          "average": 101.31859218181778,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 36,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.065868919148546,
+          "average": 25.006186660846268,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.43302924584319,
+          "average": 101.31675260025177,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 37,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.711728135638808,
+          "average": 25.002315322316086,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.16708719172564,
+          "average": 101.31298558541177,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 38,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.284917926831383,
+          "average": 24.99982498019376,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.50954559743045,
+          "average": 101.31791760624164,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 39,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.861928759227023,
+          "average": 24.993442712808534,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.33512409995546,
+          "average": 101.3201490136638,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 40,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.81336855243737,
+          "average": 24.980532913580657,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.50046585229586,
+          "average": 101.32739555565406,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 41,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.39767298262978,
+          "average": 25.000819800181674,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.2228631094326,
+          "average": 101.3292306484286,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 42,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.964297188554028,
+          "average": 24.993581122229763,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.23647036303568,
+          "average": 101.32888479622581,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 43,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.064233844532687,
+          "average": 24.986627545430174,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.30564519320164,
+          "average": 101.33049620065559,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 44,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.68056039423229,
+          "average": 24.970005257914014,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.22400754012611,
+          "average": 101.32607746632446,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 45,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.61512264868131,
+          "average": 24.965538855881434,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.49454549652746,
+          "average": 101.33746758818451,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 46,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.570082906417102,
+          "average": 24.95348248169838,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.27555897118305,
+          "average": 101.33090119759284,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 47,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.380178770022507,
+          "average": 24.973094942085577,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.24137152892453,
+          "average": 101.32882983049002,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 48,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.698268341645196,
+          "average": 24.975345181302767,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.30313493231733,
+          "average": 101.32376972998581,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 49,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.027378806734312,
+          "average": 24.991507112192103,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.33202553675675,
+          "average": 101.32966400537516,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 50,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.618647092049628,
+          "average": 24.969824892614515,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.38891944630629,
+          "average": 101.33600685907261,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 51,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.245254760083103,
+          "average": 24.973370548971776,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.36815334992556,
+          "average": 101.34323391626084,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 52,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.84067614011948,
+          "average": 24.96047590135811,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.45811619570785,
+          "average": 101.35233242590384,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 53,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.83021554172277,
+          "average": 24.953133947350576,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.24466692929148,
+          "average": 101.35168586661497,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 54,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.37648572304204,
+          "average": 24.96306737694116,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.50344377560039,
+          "average": 101.35270524574507,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 55,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.244677096545853,
+          "average": 24.968496658017038,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.46612153266118,
+          "average": 101.3510934853201,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 56,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 25.180542977918066,
+          "average": 24.975296641119414,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.45536922214795,
+          "average": 101.3538069206415,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 57,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.660243346625997,
+          "average": 24.97766396716386,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.34575329418777,
+          "average": 101.3525906217145,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 58,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.92152449032793,
+          "average": 24.96722576247667,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.43083644143907,
+          "average": 101.35276759840553,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 59,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 24.67018122555925,
+          "average": 24.956493239068422,
+          "accepted": true,
+          "window_count": 32
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.4431432910073,
+          "average": 101.35257382443001,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    }
+  ],
+  "calibration": {
+    "type": "calibrated",
+    "id": 1
+  },
+  "after": [
+    {
+      "type": "telemetry",
+      "sequence": 60,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.729759668169955,
+          "average": 27.729759668169955,
+          "accepted": true,
+          "window_count": 1
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.23759012569501,
+          "average": 101.34736416142198,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 61,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.80583299086565,
+          "average": 27.7677963295178,
+          "accepted": true,
+          "window_count": 2
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.32782975141957,
+          "average": 101.34765854490051,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 62,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.17949488064728,
+          "average": 27.571695846560964,
+          "accepted": true,
+          "window_count": 3
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.44639154987442,
+          "average": 101.34743504931625,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 63,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.492661669266564,
+          "average": 27.551937302237363,
+          "accepted": true,
+          "window_count": 4
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.23821169615566,
+          "average": 101.34793501498304,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 64,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.07579595620646,
+          "average": 27.45670903303118,
+          "accepted": true,
+          "window_count": 5
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.42412384476027,
+          "average": 101.35165406934723,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 65,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.87748964151309,
+          "average": 27.526839134444835,
+          "accepted": true,
+          "window_count": 6
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.35401054439811,
+          "average": 101.35631383474248,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 66,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.20663613947263,
+          "average": 27.4810958494488,
+          "accepted": true,
+          "window_count": 7
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.41839003588385,
+          "average": 101.35433884458426,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 67,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.030683302327684,
+          "average": 27.424794281058663,
+          "accepted": true,
+          "window_count": 8
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.31823872332303,
+          "average": 101.35781826276688,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 68,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.838260393552076,
+          "average": 27.4707349602246,
+          "accepted": true,
+          "window_count": 9
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.28645611241494,
+          "average": 101.35323785234725,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    },
+    {
+      "type": "telemetry",
+      "sequence": 69,
+      "elapsed_ms": 1,
+      "samples": [
+        {
+          "id": 1,
+          "unit": "degC",
+          "value": 27.923276452795434,
+          "average": 27.51598910948168,
+          "accepted": true,
+          "window_count": 10
+        },
+        {
+          "id": 2,
+          "unit": "kPa",
+          "value": 101.50386821692318,
+          "average": 101.36376225938467,
+          "accepted": true,
+          "window_count": 32
+        }
+      ]
+    }
+  ],
+  "rejected_command": "unknown sensor id",
+  "recovery": {
+    "type": "telemetry",
+    "sequence": 70,
+    "elapsed_ms": 1,
+    "samples": [
+      {
+        "id": 1,
+        "unit": "degC",
+        "value": 27.49125347740279,
+        "average": 27.51374041565633,
+        "accepted": true,
+        "window_count": 11
+      },
+      {
+        "id": 2,
+        "unit": "kPa",
+        "value": 101.36062830598924,
+        "average": 101.35910859402713,
+        "accepted": true,
+        "window_count": 32
+      }
+    ]
+  }
+}

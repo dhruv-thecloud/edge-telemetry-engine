@@ -1,0 +1,18 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Calibration and recovery</title><style>*{box-sizing:border-box}body{margin:0;background:#0b1421;color:#e6edf6;font:15px Arial;padding:22px}main{max-width:1100px;margin:auto}.eyebrow{color:#63dbcd;font-weight:bold;letter-spacing:2px;font-size:12px}h1{font-size:29px;margin:12px 0}p{color:#aabbd1;line-height:1.5}.cards{display:flex;gap:16px;margin:16px 0}.card{flex:1;background:#142339;border:1px solid #263d58;border-radius:12px;padding:12px}.big{font-size:28px;color:#72e1cc;margin-top:8px}pre{white-space:pre-wrap;font:12px/1.4 monospace;background:#101e30;border:1px solid #28405c;padding:14px;border-radius:10px;color:#cfe5f4}h2{font-size:18px}small{color:#91a8c2}svg{width:100%;height:160px;background:#101e30;border-radius:8px}footer{margin-top:18px;font-size:12px;color:#91a8c2}</style></head><body><main><div class="eyebrow">EDGE TELEMETRY / EXECUTION EVIDENCE</div><h1>Calibration and recovery</h1><p>Commands and responses captured through EngineClient against the actual executable.</p><pre>&gt; calibrate 1 2.5
+{&quot;type&quot;: &quot;calibrated&quot;, &quot;id&quot;: 1}
+
+&gt; poll
+{
+  &quot;id&quot;: 1,
+  &quot;unit&quot;: &quot;degC&quot;,
+  &quot;value&quot;: 27.729759668169955,
+  &quot;average&quot;: 27.729759668169955,
+  &quot;accepted&quot;: true,
+  &quot;window_count&quot;: 1
+}
+
+&gt; calibrate 999 1
+error: unknown sensor id
+
+&gt; poll
+response type: telemetry</pre><p>The first corrected reading starts a new rolling window. An unknown sensor ID is rejected and subsequent polling succeeds.</p><footer>Captured from the local executable on 28 October 2026. Evidence viewer, not a live web dashboard.</footer></main></body></html>
